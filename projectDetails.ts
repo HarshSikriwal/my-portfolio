@@ -145,15 +145,15 @@ export const projectDetails = [
     gitHubLink: "https://github.com/HarshSikriwal/Apna-Ghar",
     bgColor: "#fde2a6",
   },
-  {
-    name: "BuzzOut",
-    type: "Full-Stack",
-    duration: "Aug23-Ongoing",
-    tech: "NextJs, React, TypeScript, Tailwind, Shadcn/UI, PostgreSQL, Supabase",
-    description:
-      "Buzzout, a lighthearted website, offers a collection of random games to entertain and bring laughter to users.",
-    images: ["/projects-images/buzzout-images/home.png"],
-    gitHubLink: "https://github.com/HarshSikriwal/Buzz-Out",
-    bgColor: "#7e22ce",
-  },
+  // {
+  //   name: "BuzzOut",
+  //   type: "Full-Stack",
+  //   duration: "Aug23-Ongoing",
+  //   tech: "NextJs, React, TypeScript, Tailwind, Shadcn/UI, PostgreSQL, Supabase",
+  //   description:
+  //     "Buzzout, a lighthearted website, offers a collection of random games to entertain and bring laughter to users.",
+  //   images: ["/projects-images/buzzout-images/home.png"],
+  //   gitHubLink: "https://github.com/HarshSikriwal/Buzz-Out",
+  //   bgColor: "#7e22ce",
+  // },
 ];
